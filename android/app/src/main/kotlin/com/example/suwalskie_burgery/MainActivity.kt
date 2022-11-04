@@ -1,4 +1,4 @@
-package com.example.suwalskie_burgery
+package com.bartlomiejsawicki.suwalskie_burgery
 
 import io.flutter.embedding.android.FlutterActivity
 
