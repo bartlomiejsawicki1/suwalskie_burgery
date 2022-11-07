@@ -1,8 +1,6 @@
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 
-import 'firebase_options.dart';
-
 class HomePage extends StatelessWidget {
   const HomePage({
     Key? key,
